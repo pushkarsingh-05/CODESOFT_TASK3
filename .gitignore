@@ -1,0 +1,51 @@
+# Node modules (if any JS tooling is used)
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# SASS/SCSS cache
+.sass-cache/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# IDE files
+.idea/
+.project
+.classpath
+.settings/
+.history/
